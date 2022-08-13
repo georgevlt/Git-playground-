@@ -6,3 +6,5 @@ print(Hello world)
 Adding one line of text because Git is awsome at versioning control.
 
 Doing some extra changes
+
+threewaymerge
