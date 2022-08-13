@@ -1,6 +1,4 @@
 
-#Hello world
-
 This is a text to test GIT version control
 
 print(Hello world)
