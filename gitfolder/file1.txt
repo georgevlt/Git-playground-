@@ -1,0 +1,10 @@
+
+This is a text to test GIT version control
+
+print(Hello world)
+
+Adding one line of text because Git is awsome at versioning control.
+
+Doing some extra changes
+
+threewaymerge
