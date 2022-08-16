@@ -1,0 +1,54 @@
+[33mcommit 2294eca96bb4720cf3d0471dc8dcee85e80a3681[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: George Feature1 <george.babii@allcloud.com>
+Date:   Mon Aug 15 17:59:37 2022 +0300
+
+    moving file1.txt to gitfolder
+
+[33mcommit ec21176c70fc5f412dcaa6cbd2f8a70c5fc0bb98[m
+Author: George Feature1 <george.babii@allcloud.com>
+Date:   Mon Aug 15 17:56:24 2022 +0300
+
+    adding gitfolder and moving fil1.txt in it
+
+[33mcommit cde330a7c19f016ac8ed7baae408274e56197d8f[m
+Merge: 69a6a38 b5fb629
+Author: George Feature1 <george.babii@allcloud.com>
+Date:   Sat Aug 13 23:04:28 2022 +0300
+
+    Merge branch 'feature1'
+
+[33mcommit 69a6a383ca5744289a3e94adc53b3b5999fe41f9[m
+Author: George Feature1 <george.babii@allcloud.com>
+Date:   Sat Aug 13 23:03:12 2022 +0300
+
+    amfacutcomitpemain
+
+[33mcommit b5fb6299618a3ee73c5aef19b427ab19045050ac[m
+Author: George Feature1 <george.babii@allcloud.com>
+Date:   Sat Aug 13 22:59:56 2022 +0300
+
+    amadaugatunrandpefeature1
+
+[33mcommit 329c71a1124e9fc3b8d78ad8080ef10ed6a9297d[m
+Author: George Feature1 <george.babii@allcloud.com>
+Date:   Sat Aug 13 22:17:28 2022 +0300
+
+    push feature1 repo
+
+[33mcommit fb73b9f5abfab8a5f359c281f8a5d5eed1491758[m
+Author: George Babii <babii.georgeandrei@yahoo.com>
+Date:   Sat Aug 13 18:13:16 2022 +0300
+
+    File1 modified and created File2
+
+[33mcommit 7e66736b59bac014d4fed389fd4eee895f4369b6[m
+Author: George Babii <babii.georgeandrei@yahoo.com>
+Date:   Sat Aug 13 17:50:21 2022 +0300
+
+    2nd commit - did some changes at the code
+
+[33mcommit 6946a88ef50c01f0b686d89d08c5314c1315995d[m
+Author: George Babii <babii.georgeandrei@yahoo.com>
+Date:   Sat Aug 13 17:04:34 2022 +0300
+
+    this is the first commit
