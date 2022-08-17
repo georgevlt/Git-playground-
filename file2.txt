@@ -3,3 +3,5 @@ testing the new file
 adding this new line of text
 
 pull&fetch lesson commit
+
+this is a test for the new release-1.1 branch
